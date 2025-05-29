@@ -3,6 +3,11 @@ Use DMX to control the HDMI player.
 
 This git for store the firmware file.
 
+# Firmware Updater
+
+This is the function which can run on windows system to change the DMX HDMI Player's Firmware.
+
+
 # Version 3
 
 This version is same with version 1.
