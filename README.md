@@ -13,3 +13,5 @@ This is the function which can run on windows system to change the DMX HDMI Play
 This version is same with version 1.
 
 the different is if lose the DMX signal, it will automatic to play floder #1, file #1, single file repet, audio volume to Max level.
+
+[Video on Youtube](https://www.youtube.com/watch?v=7C6FH-xLFSA)
