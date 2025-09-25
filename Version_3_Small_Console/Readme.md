@@ -6,4 +6,4 @@ Since the faders on these compact consoles have coarse step sizes and can’t re
 
 Update by GT: 25.Sep.2025
 
-# [Video on Youtube](https://youtu.be/KtjxazMMoqE)
+# [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
