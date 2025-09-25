@@ -9,7 +9,7 @@ This is the function which can run on windows system to change the DMX HDMI Play
 
 
 # [Version_3_Small_Console](./Version_3_Small_Console/)
-# [Video on Youtube](https://youtu.be/KtjxazMMoqE)
+# [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
 
 This firmware is intended for small, manual-fader DMX-512 consoles.
 
