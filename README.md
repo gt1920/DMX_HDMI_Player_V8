@@ -9,6 +9,7 @@ This is the function which can run on windows system to change the DMX HDMI Play
 
 
 # [Version_3_Small_Console](./Version_3_Small_Console/)
+# [Video on Youtube](https://youtu.be/KtjxazMMoqE)
 
 This firmware is intended for small, manual-fader DMX-512 consoles.
 
@@ -17,7 +18,9 @@ As a result, Channel 2 selects from 10 Folders and Channel 3 selects from 10 Fil
 
 Update by GT: 25.Sep.2025
 
+
 # [Version 3](./Version_3/)
+# [Video for Version 3](https://www.youtube.com/watch?v=7C6FH-xLFSA)
 
 This version is same with version 1.
 
@@ -27,7 +30,7 @@ if lose the DMX signal, wait for 2000ms
 
 the player will automatic to play floder #1, file #1, single file repet, audio volume to Max level.
 
-# [Video for Version 3](https://www.youtube.com/watch?v=7C6FH-xLFSA)
+
 
 
 
