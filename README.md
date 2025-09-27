@@ -8,7 +8,7 @@ This git for store the firmware file.
 This is the function which can run on windows system to change the DMX HDMI Player's Firmware.
 
 # [Version 3](./Version_3/)
-# [Video for Version 3](https://www.youtube.com/watch?v=7C6FH-xLFSA)
+## [Video for Version 3](https://www.youtube.com/watch?v=7C6FH-xLFSA)
 
 This version is same with version 1.
 
@@ -19,7 +19,7 @@ if lose the DMX signal, wait for 2000ms
 the player will automatic to play floder #1, file #1, single file repet, audio volume to Max level.
 
 # [Version_3_Default](./Version_3_Default/)
-# [Video for Version 3 Default](https://youtu.be/tv3IqqsQXow?si=qoUCaSS-gs-4ziTw)
+## [Video for Version 3 Default](https://youtu.be/tv3IqqsQXow?si=qoUCaSS-gs-4ziTw)
 
 This firmware is the default version.
 
@@ -30,7 +30,7 @@ If you have change to another version, want to change back to the default settin
 Update by GT: 29.May.2025
 
 # [Version_3_Small_Console](./Version_3_Small_Console/)
-# [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
+## [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
 
 This firmware is intended for small, manual-fader DMX-512 consoles.
 
