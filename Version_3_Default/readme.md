@@ -1,5 +1,5 @@
 # [Version_3_Default](./Version_3_Default/)
-# [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
+# [Video for Version 3 Default](https://youtu.be/tv3IqqsQXow?si=qoUCaSS-gs-4ziTw)
 
 This firmware is the default version.
 
