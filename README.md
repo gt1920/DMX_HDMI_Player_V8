@@ -18,6 +18,8 @@ if lose the DMX signal, wait for 2000ms
 
 the player will automatic to play floder #1, file #1, single file repet, audio volume to Max level.
 
+Update by GT: 14.Sep.2025
+
 # [Version_3_Default](./Version_3_Default/)
 ## [Video for Version 3 Default](https://youtu.be/tv3IqqsQXow?si=qoUCaSS-gs-4ziTw)
 
