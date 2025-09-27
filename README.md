@@ -18,16 +18,6 @@ if lose the DMX signal, wait for 2000ms
 
 the player will automatic to play floder #1, file #1, single file repet, audio volume to Max level.
 
-# [Version_3_Small_Console](./Version_3_Small_Console/)
-# [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
-
-This firmware is intended for small, manual-fader DMX-512 consoles.
-
-Since the faders on these compact consoles have coarse step sizes and can’t reliably adjust in single-DMX increments, we partition the 0–255 range for both Folder and File into 10 segments. 
-As a result, Channel 2 selects from 10 Folders and Channel 3 selects from 10 Files, making the Video Player easy to operate with small DMX-512 consoles.
-
-Update by GT: 25.Sep.2025
-
 # [Version_3_Default](./Version_3_Default/)
 # [Video for Version 3 Default](https://youtu.be/tv3IqqsQXow?si=qoUCaSS-gs-4ziTw)
 
@@ -39,8 +29,13 @@ If you have change to another version, want to change back to the default settin
 
 Update by GT: 29.May.2025
 
+# [Version_3_Small_Console](./Version_3_Small_Console/)
+# [Video for Version 3 Small DMX Console](https://youtu.be/KtjxazMMoqE)
 
+This firmware is intended for small, manual-fader DMX-512 consoles.
 
+Since the faders on these compact consoles have coarse step sizes and can’t reliably adjust in single-DMX increments, we partition the 0–255 range for both Folder and File into 10 segments. 
+As a result, Channel 2 selects from 10 Folders and Channel 3 selects from 10 Files, making the Video Player easy to operate with small DMX-512 consoles.
 
-
+Update by GT: 25.Sep.2025
 
