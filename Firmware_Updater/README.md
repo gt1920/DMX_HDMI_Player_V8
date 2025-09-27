@@ -1,5 +1,7 @@
 # Firmware Updater
 
+<img width="899" height="420" alt="image" src="https://github.com/user-attachments/assets/b8d8f9bc-e5c6-4d0f-ad17-9f52febad5a3" />
+
 This is the function which can run on windows system to change the DMX HDMI Player's Firmware.
 
 1. Power OFF the device
