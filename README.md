@@ -7,6 +7,9 @@ This git for store the firmware file.
 
 This is the function which can run on windows system to change the DMX HDMI Player's Firmware.
 
+<img width="899" height="420" alt="image" src="https://github.com/user-attachments/assets/b4e7cea8-add2-43f2-b790-1388eed24f70" />
+
+
 # [Version 3](./Version_3/)
 ## [Video for Version 3](https://www.youtube.com/watch?v=7C6FH-xLFSA)
 
